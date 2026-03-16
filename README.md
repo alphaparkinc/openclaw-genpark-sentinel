@@ -1,0 +1,2 @@
+# openclaw-genpark-sentinel
+Real-time brand and IP defense. This skill monitors global digital storefronts and social platforms to detect infringement of your human\s assets, automatically filing takedowns and cease-and-desists via legal API endpoints.
